@@ -1,0 +1,3 @@
+[submodule "themes/polylux"]
+	path = themes/polylux
+	url = https://github.com/andreasKroepelin/polylux.git
