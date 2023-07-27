@@ -49,6 +49,9 @@ git clone git@github.com:w568w/typst-slides-fudan.git --recursive
 >
 > 由于 `demo.typ` 引用了 `themes` 目录下的库，请勿将 `demo.typ` 单独移动到其他目录下，否则 Typst 将编译失败。
 
+## 待办事项
+- [ ] 完成在线使用的说明
+- [ ] 介绍模板的使用方法
 
 ## 协议
 本项目的所有代码和文档均以 [GNU 通用公共许可证 v3.0](LICENSE) 协议发布。

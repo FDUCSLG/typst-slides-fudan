@@ -50,6 +50,8 @@ It is strongly recommended that you start with `demo.typ`, which is a simple exa
 >
 > Since `demo.typ` references the libraries and themes in the `themes` directory, please do NOT move `demo.typ` to other directories, otherwise Typst will fail to compile.
 
+## To-do list
+Check the [Chinese version](README.zh-CN.md) for more details.
 
 ## License
 All code and documents in this repository are released under the [GNU General Public License v3.0](LICENSE).
