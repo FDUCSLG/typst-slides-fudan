@@ -3,6 +3,14 @@
 # Fudan Theme for Typst Slides
 This project is a [Typst](https://typst.app/) slide template based on the [Polylux](https://andreaskroepelin.github.io/polylux/book/polylux.html) library and its official theme [Clean](https://github.com/andreasKroepelin/polylux/blob/9184eeff02c5d03368b21024486ad2a2b8f65e0c/themes/clean.typ).
 
+## Preview
+![Preview 1](images/demo-1.png)
+![Preview 2](images/demo-2.png)
+![Preview 3](images/demo-3.png)
+![Preview 4](images/demo-4.png)
+![Preview 5](images/demo-5.png)
+![Preview 6](images/demo-6.png)
+
 ## Usage
 ### 1. Install Typst or use Typst online
 Typst can be used [online](https://typst.app/) or [downloaded and installed as a command line tool](https://github.com/typst/typst).

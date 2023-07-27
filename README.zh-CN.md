@@ -3,6 +3,14 @@
 # 复旦主题的 Typst 幻灯片模板
 本项目是一个复旦主题的 [Typst](https://typst.app/) 幻灯片模板，依赖于 [Polylux](https://andreaskroepelin.github.io/polylux/book/polylux.html) 库，基于其官方主题 [Clean](https://github.com/andreasKroepelin/polylux/blob/9184eeff02c5d03368b21024486ad2a2b8f65e0c/themes/clean.typ)。
 
+## 预览
+![预览1](images/demo-1.png)
+![预览2](images/demo-2.png)
+![预览3](images/demo-3.png)
+![预览4](images/demo-4.png)
+![预览5](images/demo-5.png)
+![预览6](images/demo-6.png)
+
 ## 使用方法
 ### 1. 安装 Typst 或在线使用 Typst
 Typst 既可以[在线使用](https://typst.app/)，也可以[下载安装 `typst` 命令行工具](https://github.com/typst/typst)使用。
